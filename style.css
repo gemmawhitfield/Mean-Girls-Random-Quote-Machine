@@ -1,0 +1,63 @@
+<style>
+
+ @import url('https://fonts.googleapis.com/css2?family=The+Girl+Next+Door&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.regina {
+  float: center;
+}
+
+.wrapper{
+  text-align: center;
+  background-image: linear-gradient(180deg, pink, purple);
+  
+}
+.container {
+  font-family: "The Girl Next Door", sans-serif;
+  font-size: 40px;
+  text-align: center;
+  height: 750px;
+ 
+ 
+}
+
+.by {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+.fa-quote-right {
+  float: right;
+  animation: bounce 5s linear 2s infinite alternate;
+}
+
+.fa-quote-left {
+  float: left;
+  animation: bounce 5s linear 2s infinite alternate;
+}
+
+.logo {
+font-size: 110px;
+color: #682A77;
+font-family: "Anton", sans-serif;
+letter-spacing: 5px;
+font-weight: 50px;
+text-align: center;
+}
+
+.buttons {
+  font-family: "Montserrat", sans-serif;
+}
+
+
+.card-title {
+  font-family: "The Girl Next Door", sans-serif;
+  font-size: 40px;
+  text-align: center;
+  
+}
+
+
+</style>
