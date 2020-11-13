@@ -1,5 +1,3 @@
-<script>
-
 // Store the quotes:
 
 const QUOTEBANK = [
@@ -152,5 +150,3 @@ function generateQuote() {
   document.getElementById("author").innerText = randomQuoteData.author;
 }
 
-
-</script> 
